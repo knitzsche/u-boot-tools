@@ -1,7 +1,7 @@
 name: u-boot-tools
 version: 1
-summary: The Canonical snapdragon arm64 kernel
-description: The Canonical snapdragon arm64 kernel
+summary: u-boot-tools 
+description: mkimage with fit verification enabled
 grade: stable
 confinement: strict
 
